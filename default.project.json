@@ -8,19 +8,16 @@
 
       "Shared": {
         "$path": "src/ReplicatedStorage/Shared"
+      },
+
+      "Remotes": {
+        "$path": "src/ReplicatedStorage/Remotes"
       }
     },
 
     "ServerScriptService": {
       "$className": "ServerScriptService",
-
-      "Services": {
-        "$path": "src/ServerScriptService/Services"
-      },
-
-      "Systems": {
-        "$path": "src/ServerScriptService/Systems"
-      }
+      "$path": "src/ServerScriptService"
     },
 
     "StarterPlayer": {
